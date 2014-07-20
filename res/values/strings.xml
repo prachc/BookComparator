@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookComparator</string>
+    <array name="process_name">
+	    <item>Barcode</item>
+    	<item>Amazon</item>
+    	<item>Kinokuniya</item>
+    	<item>Output</item>
+    </array>
+    <array name="process_number">
+	    <item>0x001</item>
+    	<item>0x002</item>
+    	<item>0x003</item>
+    	<item>0x003</item>
+    </array>
+</resources>
